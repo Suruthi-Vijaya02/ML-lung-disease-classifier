@@ -1,4 +1,4 @@
-# 🫁 AI Lung Disease Detection System
+# 🫁 Lung Disease Detection System - DL
 
 ![Project Banner](assets/banner.png)
 
@@ -108,33 +108,6 @@ backend
 
 ---
 
-#  Running the Project
-
-### Clone the repository
-
-git clone
-https://github.com/Suruthi-Vijaya02/ML-lung-disease-classifier
-
----
-
-### Navigate to backend
-
-cd ML-lung-disease-classifier/backend
-
----
-
-### Install dependencies
-
-pip install -r requirements.txt
-
----
-
-### Run the API
-
-python main.py
-
----
-
 #  Dataset
 
 The project uses respiratory sound recordings from the **ICBHI Lung Sound Dataset**, a publicly available dataset used for respiratory disease research.
@@ -145,7 +118,6 @@ The project uses respiratory sound recordings from the **ICBHI Lung Sound Datase
 
 • Improve model accuracy with larger datasets
 • Add real-time lung sound recording
-• Deploy full system in cloud environment
 • Enhance UI for clinical usability
 
 ---
